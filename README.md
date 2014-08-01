@@ -47,6 +47,8 @@ Busco uma oportunidade para ampliar meus conhecimentos e expandir minha carreira
 - Denuncia Jeans (verão 2013) &nbsp;&nbsp;<http://denunciajeans.com.br/ver13>
 - Denuncia Jeans (inverno 2013) &nbsp;&nbsp;<http://denunciajeans.com.br/inv13>
 
+*Sugestão: colocar no tótipo Sites Recém Publicados o que você fez. Se foi backend, frontend, design. E também que ferramentas foram usadas como Code Igniter, Twitter Bootstrap, etc*
+
 <br />
 #### Tenho disponibilidade imediata para começar
 <br />
